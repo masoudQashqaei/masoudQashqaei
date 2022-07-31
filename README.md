@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @masoudQashqaei
+- 👀 I’m interested in ...
+- Coding
+- 🌱 I’m currently learning ...
+- djangoooooo
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- masoud.qashqai.1993@gmail.com
+
+<!---
+masoudQashqaei/masoudQashqaei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
